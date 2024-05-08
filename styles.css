@@ -4,6 +4,7 @@ body {
     margin: 20px; /* Adds margin around the body content */
     background-color: #f4f4f4; /* Light grey background color */
     color: #333; /* Dark grey text color */
+    background-color:brown;
 }
 
 /* This styles all <p> tags within the body */
