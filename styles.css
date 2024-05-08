@@ -1,0 +1,23 @@
+/* This styles the body of the page */
+body {
+    font-family: Arial, sans-serif; /* Sets the font for the body content */
+    margin: 20px; /* Adds margin around the body content */
+    background-color: #f4f4f4; /* Light grey background color */
+    color: #333; /* Dark grey text color */
+}
+
+/* This styles all <p> tags within the body */
+p {
+    background-color: #fff; /* White background for paragraphs */
+    padding: 10px; /* Padding inside paragraphs */
+    border-radius: 8px; /* Rounded corners for paragraphs */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow for paragraphs */
+    font-size: 16px; /* Sets the font size */
+    line-height: 1.6; /* Spacing between lines */
+}
+
+/* This styles all <strong> tags within paragraphs */
+strong {
+    color: #d63447; /* Makes text in <strong> tags a red color */
+    font-weight: bold; /* Ensures the font is bold */
+}
